@@ -32,14 +32,14 @@
   background-size: cover;
 }
 
-.banner-heading{
+.banner-heading {
   color: white;
   font-family: "Roboto";
   font-size: 50px;
   font-weight: 300;
 }
 
-.banner-caption{
+.banner-caption {
   color: #f5f7fa;
   font-family: "Roboto";
   font-size: 24px;
@@ -64,4 +64,50 @@
   border-width: 1px;
   border-color: #d0b200;
   border-radius: 8px;
+}
+
+.wcu-container {
+  background-color: #f9fbfe;
+}
+
+.wcu-section-heading {
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 28px;
+  color: #183b56;
+}
+
+.wcu-section-description {
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+
+.card {
+  border-radius: 1.25rem;
+}
+
+.card-title {
+  font-size: 22px;
+}
+
+.offer {
+  font-weight: bold;
+  font-style: italic;
+  color: black;
+}
+
+.explore-menu-section {
+  background-color: white;
+}
+
+.ems-heading {
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 28px;
+  color: #183b56;
+}
+
+.image {
+  border-radius: 2.25rem;
 }
