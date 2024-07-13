@@ -66,18 +66,18 @@
   border-radius: 8px;
 }
 
-.wcu-container {
+.off-white-bg {
   background-color: #f9fbfe;
 }
 
-.wcu-section-heading {
+.section-heading {
   font-family: "Roboto";
   font-weight: 700;
   font-size: 28px;
   color: #183b56;
 }
 
-.wcu-section-description {
+.section-description {
   color: #5a7184;
   font-family: "Roboto";
   font-size: 16px;
@@ -97,17 +97,19 @@
   color: black;
 }
 
-.explore-menu-section {
+.white-bg {
   background-color: white;
-}
-
-.ems-heading {
-  font-family: "Roboto";
-  font-weight: 700;
-  font-size: 28px;
-  color: #183b56;
 }
 
 .image {
   border-radius: 2.25rem;
+}
+
+.thanking-customers-section{
+  background-color: #d0b2001a;
+}
+
+.card-img-top{
+  height: 90px;
+  width: 87px;
 }
