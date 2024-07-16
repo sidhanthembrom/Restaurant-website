@@ -113,3 +113,21 @@
   height: 90px;
   width: 87px;
 }
+
+.twitter-bg{
+  color: #d0b200;
+  background-color: #d0b2001a;
+  border-radius: 50%;
+  padding: 10px 15px;
+}
+
+footer{
+  background-color: #183b56;
+  height: 150px;
+}
+
+.footer-text{
+  margin-bottom: 0;
+  color: white;
+  font-size: 11px;
+}
